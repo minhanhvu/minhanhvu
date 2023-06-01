@@ -1,14 +1,5 @@
 # Hello, I am Anh
-This is where I introduce 
-- 🪶my name, 
-- 💡 my background
-- my interest
-- my work
-- some fun facts. I want to keep the overview fun and concise.
-
 <!--
-**minhanhvu/minhanhvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
