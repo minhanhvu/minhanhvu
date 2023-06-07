@@ -2,7 +2,7 @@
 - 👤 Name: Minh Anh Vu
 - 😄 Pronouns: She/her
 - 📣 Languages: English & Vietnamese 
-- 🔭 I’m currently working on a fun project "Me and ChatGPT team up to land a job in data analytics field!"
+- 🔭 I’m currently working on a exhilirating project "How I and ChatGPT team up to land a job in data analytics!"
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
