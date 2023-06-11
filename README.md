@@ -12,7 +12,4 @@ On this page, you will find exemplary projects that solved real business problem
 - 💡 testing how ChatGPT can accelerate a project progress
 - 🌱 reading: The Art of Statistics: How to learn from data
 - 👯 finding MVP mindset startling useful for fighting perfectionism
-
-![image](https://github.com/minhanhvu/minhanhvu/assets/87383756/921a01d5-b81c-42e0-a5a8-9ffb671a78b1)
-
 -->
