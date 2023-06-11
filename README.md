@@ -17,7 +17,7 @@ On this page, you will find exemplary projects that addressed real business prob
 - 👯 applying MVP mindset to get things done and accelerate learning
 
 ### Random
-- Me and my teammate worked on a conference [paper](https://aisel.aisnet.org/icis2022/is_futureofwork/is_futureofwork/9/) that recap critical disussions around the Algorithm Management topic 
+- Me and my teammate worked on a conference [paper](https://aisel.aisnet.org/icis2022/is_futureofwork/is_futureofwork/9/) that recap critical disussions around Algorithm Management topic 
 
 
 
