@@ -11,10 +11,9 @@ Heyy! I'm Anh, an economics graduate venturing into the world of data analytics.
 On this page, you will find exemplary projects that addressed real business problems from my professional work, along with other fun personal projects. These projects are presented in 4 key pillars: **context, action, outcome, and key learning points**. Currently, I am delving into topics related to charging scheduling optimization for electric vehicles. If you share similar interests and crave for discussions, new ideas, collaborations just like me, feel free to reach me through vuminhanh241197@gmail.com.
 
 ### I'm currently 
-- 🔭 working on "What Messenger data speaks about our 7 years of friendship?" - a gift from a data geek (me, of course) to her best friend 
-- 💡 testing how ChatGPT can speed up my project progress
-- 🌱 reading: Born a crime by Trevor Noah
-- 👯 applying MVP mindset to get things done and accelerate learning
+- 🔭 building my own learning hub using Gitbook
+- 💡 "What Messenger data speaks about our 7 years of friendship?" - a gift from a data geek (me, of course) to her best friend 
+- 🌱 reading: Happiness by design by Paul Dolan
 
 ### Random
 - A [paper](https://aisel.aisnet.org/icis2022/is_futureofwork/is_futureofwork/9/)  by me and my teammate that recap critical discussions around the Algorithm Management topic was published at ICIS 2022 conference “Digitization for the next generation” in Copenhagen, Denmark 
