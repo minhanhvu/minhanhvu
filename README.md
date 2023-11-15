@@ -14,7 +14,7 @@ On this page, you will find exemplary projects that addressed real business prob
 - 🔭 documenting portfolio progress using Gitbook
 - 💡 working on "What Messenger data speaks about our 7 years of friendship?" project - a gift from a data geek (me, of course) to her best friend 
 - 🌱 reading: Happiness by design by Paul Dolan
-- 🥹 learning German (nein, ich habe es noch nicht aufgegeben aber es war knapp)
+- 🥹 learning German (yep, ich habe es noch nicht aufgegeben aber es war knapp)
 ### Random
 - A [paper](https://aisel.aisnet.org/icis2022/is_futureofwork/is_futureofwork/9/)  by me and my teammate that recap critical discussions around the Algorithm Management topic was published at ICIS 2022 conference “Digitization for the next generation” in Copenhagen, Denmark 
 
