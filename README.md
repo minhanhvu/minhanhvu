@@ -8,7 +8,7 @@
 
 Heyy! I'm Anh, an economics graduate venturing into the world of data analytics. I had a year of experience as a business analytics intern at TIER Mobility, where I analyzed fleet-health data to minimize the risk of ride accidents and reduce the cost of repair and maintenance. 
 
-On this page, you will find exemplary projects that addressed real business problems from my professional work, along with other fun personal projects. These projects are presented in 4 key pillars: **context, action, outcome, and key learning points**. Currently, I am delving into topics related to charging scheduling optimization for electric vehicles. If you share similar interests and crave for discussions, new ideas, or collaborations, feel free to reach me through vuminhanh241197@gmail.com.
+On this page, you will find exemplary projects that addressed real business problems from my professional work, along with other fun personal projects. These projects are presented in 4 key pillars: **summary, context, action, outcome**. Currently, I am learning SQL while looking for data analyst positions in Germany. If you share a similar interest in data analysis, learning languages, or want to discuss about one of my projects, new ideas, etc feel free to reach me through vuminhanh241197@gmail.com.
 
 ### I'm currently 
 - 🔭 documenting portfolio progress using Gitbook
